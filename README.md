@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning courses of Data, business , Marketing and Sales Analysis courses in Coursera
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : through email  : chabib.mohamed@gmail.com
-- ⚡ Fun fact: ...
+
 
 <!---
 Momo/Nikobrainer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
