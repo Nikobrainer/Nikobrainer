@@ -1,9 +1,8 @@
-- 👋 Hi, I’m momo my alias is @Nikobrainer
-- 👀 I’m interested in becoming a Data Analyst
-- 🌱 I’m currently learning Data Analysis courses in Coursera
+- 👋 Hi, I’m Mohamed Chabib my alias is @Nikobrainer
+- 👀 I’m interested in learning about Data and its impact on making strategic decision
+- 🌱 I’m currently learning courses of Data, business , Marketing and Sales Analysis courses in Coursera
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : through email 
-- 😄 Pronouns: ...
+- 📫 How to reach me : through email  : chabib.mohamed@gmail.com
 - ⚡ Fun fact: ...
 
 <!---
